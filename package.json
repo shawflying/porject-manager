@@ -1,0 +1,23 @@
+{
+  "name": "project-manager",
+  "version": "0.0.1",
+  "description": "project manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawflying/project-manager.git"
+  },
+  "keywords": [
+    "project",
+    "manager"
+  ],
+  "author": "yanxxit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawflying/project-manager/issues"
+  },
+  "homepage": "https://github.com/shawflying/project-manager#readme"
+}
