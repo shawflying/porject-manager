@@ -1,0 +1,20 @@
+<% include header.html %>
+<style>
+    body {
+        text-align: center;
+    }
+
+    .home-h1 {
+        margin-top: 20%;
+    }
+</style>
+<body>
+<% include common.html %>
+
+<h1 class="home-h1">管理平台</h1>
+<p>简单项目管理软件</p>
+
+</body>
+
+<% include footer.html %>
+<script type="text/javascript" src="/<%= app %>/public/home/js/myHome<%= online?'':'.min' %>.js<%= version %>"></script>
